@@ -1,4 +1,4 @@
-// Package bluesky is the native plugin for Bluesky (AT Protocol) profiles.
+// Package bluesky is the plugin for Bluesky (AT Protocol) profiles.
 //
 // The profile RSS feed (bsky.app/profile/{handle}/rss) is not used: it is
 // text-only — no item titles, no media, no author — and strips an image or
